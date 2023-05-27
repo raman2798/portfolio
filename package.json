@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/raman2798/portfolio/issues"
   },
-  "homepage": "https://github.com/raman2798/portfolio",
+  "homepage": "https://raman2798.github.io/portfolio",
   "eslintConfig": {
     "extends": [
       "react-app",
